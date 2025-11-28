@@ -3,9 +3,6 @@
 Este repositório faz parte da 2ª Verificação de Aprendizagem da disciplina  
 **Introdução à Engenharia da Computação** – UFRPE/UABJ.
 
-O objetivo é servir como um **guia rápido** para iniciantes em HTML e CSS, contendo
-explicações simples e exemplos básicos.
-
 ---
 
 ## O que é HTML?
