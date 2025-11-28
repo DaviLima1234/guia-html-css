@@ -77,7 +77,7 @@ Este repositório foi desenvolvido em equipe utilizando:
 - `git clone`
 - `git pull`
 - `git add`, `git commit`, `git push`
-- Histórico de commits de todos os membros
+
 
 ---
 
