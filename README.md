@@ -77,10 +77,3 @@ Este repositório foi desenvolvido utilizando:
 
 
 ---
-
-## Datas importantes
-
-- **01/12** – envio do link no Classroom
-- **04/12** – apresentação em sala (pitch de até 7 minutos)
-
----
