@@ -73,7 +73,7 @@ Basta abrir qualquer arquivo `.html` no navegador.
 
 ## Colaboração (Git/GitHub)
 
-Este repositório foi desenvolvido em equipe utilizando:
+Este repositório foi desenvolvido utilizando:
 - `git clone`
 - `git pull`
 - `git add`, `git commit`, `git push`
