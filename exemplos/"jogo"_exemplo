@@ -55,8 +55,7 @@
 
 
     /*
-        💡 A cobra percorre o perímetro do tabuleiro
-        (você pode alterar o trajeto facilmente)
+        
     */
     @keyframes move {
         0%   { top: 0; left: 0; }
