@@ -58,7 +58,8 @@ Esta pasta contém arquivos reais demonstrando o básico:
 - `pagina_basica.html` – estrutura mínima HTML  
 - `texto_e_links.html` – tags de texto e links  
 - `listas_e_tabelas.html` – exemplos de listas e tabelas  
-- `estilo.css` – arquivo para demonstração do CSS  
+- `estilo.css` – arquivo para demonstração do CSS
+- `"jogo"_exemplo.html` - arquivo para demonstrar um "joguinho" usando HTML e CSS   
 
 ---
 
